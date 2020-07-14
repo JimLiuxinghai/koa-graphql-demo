@@ -1,0 +1,13 @@
+{
+  "name": "graphql-server-demo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "jimliu",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-koa": "^2.15.0",
+    "graphql": "^15.1.0",
+    "koa": "^2.13.0",
+    "moment": "^2.27.0"
+  }
+}
